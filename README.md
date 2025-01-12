@@ -17,15 +17,15 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Davi](https://github-readme-stats.vercel.app/api?username=nDaviii&show_icons=true&theme=tokyonight)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nDaviii&layout=compact&theme=tokyonight)  
+![Estatísticas do GitHub de Davi](https://github-readme-stats.vercel.app/api?username=davidijesus&show_icons=true&theme=tokyonight)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidijesus&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/davi-nascimento-de-jesus/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/nDaviii)  
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/davidijesus)  
 
 ---
 
