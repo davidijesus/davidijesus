@@ -3,7 +3,9 @@
 ### Eu sou o Davi. Prazer!
 
 🎓 Estudante de **Engenharia da Computação** no Inteli
+
 🌍 Apaixonado por utilizar tecnologia para impacto social  
+
 💡 Explorando Ciência de Dados, Desenvolvimento Web e Gestão de Projetos
 
 ---
