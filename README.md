@@ -1,4 +1,4 @@
-# Oi, meu povo! 👋
+# Oi! 👋
 
 ### Eu sou o Davi. Prazer!
 
