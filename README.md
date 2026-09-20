@@ -1,34 +1,16 @@
-# Oi! 👋
+# Davi Nascimento de Jesus
 
-### Eu sou o Davi. Prazer!
+I study Computer Engineering at Inteli and build software where product thinking meets real-world problems. My work moves between web applications, Android and applied data, with a particular interest in technology that serves people beyond the screen.
 
-🎓 Estudante de **Engenharia da Computação** no Inteli
+I value clear interfaces and evidence over inflated claims. In my repositories, I aim to show what runs, what is still a prototype and how someone else can explore the work.
 
-🌍 Apaixonado por utilizar tecnologia para impacto social  
+## Selected work
 
-💡 Explorando Ciência de Dados, Desenvolvimento Web e Gestão de Projetos
+- [CARtografia](https://github.com/davidijesus/CARtografia): a documented concept and navigable prototype for reviewing cartographic evidence in Brazilian environmental registry workflows. Its SiCAR journey is simulated, not a government integration.
+- [DevLens](https://github.com/davidijesus/dev-lens): an Android project that explores the gap between the impact of engineering work and how that work is perceived, using local analysis on the device.
 
----
+I am also [building this portfolio in public](https://github.com/davidijesus/davi-jesus). More projects are available in the [repository list](https://github.com/davidijesus?tab=repositories); documentation and demonstrations are being reviewed progressively.
 
-## 🔧 Tecnologias & Ferramentas
+## Connect
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)  
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github) ![Canva](https://img.shields.io/badge/-Canva-000?style=flat&logo=canva)  
-
----
-
-## 📊 Minhas estatísticas
-
-![Estatísticas do GitHub de Davi](https://github-readme-stats.vercel.app/api?username=davidijesus&show_icons=true&theme=tokyonight)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidijesus&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/davi-nascimento-de-jesus/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/davidijesus)  
-
----
-
-Design de soluções com propósito, criação de impacto. ✨
+[LinkedIn](https://www.linkedin.com/in/davi-nascimento-de-jesus/) · [GitHub](https://github.com/davidijesus)
